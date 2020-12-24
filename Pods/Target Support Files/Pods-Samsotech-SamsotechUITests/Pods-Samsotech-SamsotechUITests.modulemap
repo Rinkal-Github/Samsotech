@@ -1,0 +1,6 @@
+framework module Pods_Samsotech_SamsotechUITests {
+  umbrella header "Pods-Samsotech-SamsotechUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

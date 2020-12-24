@@ -1,0 +1,6 @@
+framework module Pods_Samsotech {
+  umbrella header "Pods-Samsotech-umbrella.h"
+
+  export *
+  module * { export * }
+}
